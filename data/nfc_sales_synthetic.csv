@@ -1,0 +1,381 @@
+﻿fecha,mes,dia_semana,semana,producto,precio_unitario,descuento_pct,monto_venta,costo_unitario,ganancia,margen_pct,canal,ciudad
+2023-01-03 18:19:37.180995,2023-01,Tuesday,1,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Barranquilla
+2023-01-04 00:21:42.562036,2023-01,Wednesday,1,Tarjeta NFC,25,10,22.5,8,14.5,64.44,TikTok,Bogotá
+2023-01-04 19:06:02.586531,2023-01,Wednesday,1,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Instagram,Cali
+2023-01-06 00:31:05.391784,2023-01,Friday,1,Brazalete Premium,60,0,60.0,22,38.0,63.33,Referido,Medellín
+2023-01-08 20:36:44.190016,2023-01,Sunday,1,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Instagram,Bogotá
+2023-01-09 10:32:36.610779,2023-01,Monday,2,Brazalete Premium,60,0,60.0,22,38.0,63.33,Facebook,Barranquilla
+2023-01-10 01:22:00.876974,2023-01,Tuesday,2,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Referido,Cali
+2023-01-10 22:46:43.692016,2023-01,Tuesday,2,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Página Web,Cali
+2023-01-12 05:44:21.167708,2023-01,Thursday,2,Brazalete Premium,60,5,57.0,22,35.0,61.4,TikTok,Barranquilla
+2023-01-13 16:57:19.605176,2023-01,Friday,2,Brazalete Premium,60,0,60.0,22,38.0,63.33,Referido,Barranquilla
+2023-01-14 06:38:11.126824,2023-01,Saturday,2,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,Instagram,Cali
+2023-01-14 20:11:46.110178,2023-01,Saturday,2,Llavero NFC,30,0,30.0,10,20.0,66.67,Referido,Barranquilla
+2023-01-14 21:05:32.052677,2023-01,Saturday,2,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Cali
+2023-01-15 11:24:15.168015,2023-01,Sunday,2,Brazalete Premium,60,0,60.0,22,38.0,63.33,TikTok,Cali
+2023-01-17 15:40:30.990725,2023-01,Tuesday,3,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Referido,Medellín
+2023-01-18 03:50:52.977260,2023-01,Wednesday,3,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,Instagram,Cali
+2023-01-19 18:37:37.850498,2023-01,Thursday,3,Brazalete Premium,60,0,60.0,22,38.0,63.33,Instagram,Bogotá
+2023-01-20 14:59:15.200997,2023-01,Friday,3,Llavero NFC,30,0,30.0,10,20.0,66.67,Referido,Barranquilla
+2023-01-21 03:21:59.609282,2023-01,Saturday,3,Brazalete Premium,60,0,60.0,22,38.0,63.33,Referido,Barranquilla
+2023-01-21 09:24:38.395331,2023-01,Saturday,3,Brazalete Premium,60,0,60.0,22,38.0,63.33,Facebook,Bogotá
+2023-01-23 05:42:36.812116,2023-01,Monday,4,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Facebook,Barranquilla
+2023-01-23 06:19:02.837761,2023-01,Monday,4,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,TikTok,Bogotá
+2023-01-25 16:39:30.217981,2023-01,Wednesday,4,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Bogotá
+2023-01-25 17:39:49.478590,2023-01,Wednesday,4,Brazalete Premium,60,0,60.0,22,38.0,63.33,TikTok,Cali
+2023-01-26 02:49:07.035791,2023-01,Thursday,4,Pulsera NFC Plus,45,10,40.5,18,22.5,55.56,Instagram,Bogotá
+2023-01-26 08:41:10.349818,2023-01,Thursday,4,Brazalete Premium,60,0,60.0,22,38.0,63.33,Página Web,Barranquilla
+2023-01-29 02:34:39.202967,2023-01,Sunday,4,Llavero NFC,30,5,28.5,10,18.5,64.91,Facebook,Barranquilla
+2023-01-29 05:14:14.187096,2023-01,Sunday,4,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,TikTok,Medellín
+2023-02-01 17:07:39.553868,2023-02,Wednesday,5,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,TikTok,Bogotá
+2023-02-04 16:52:07.039733,2023-02,Saturday,5,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Página Web,Bogotá
+2023-02-05 12:26:09.868125,2023-02,Sunday,5,Pulsera NFC Plus,45,10,40.5,18,22.5,55.56,Instagram,Medellín
+2023-02-07 20:54:37.752005,2023-02,Tuesday,6,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,Facebook,Cartagena
+2023-02-08 12:43:58.317367,2023-02,Wednesday,6,Pack 3 Pulseras,120,5,114.0,45,69.0,60.53,TikTok,Medellín
+2023-02-08 20:51:21.777922,2023-02,Wednesday,6,Llavero NFC,30,5,28.5,10,18.5,64.91,Facebook,Bogotá
+2023-02-10 10:16:52.018765,2023-02,Friday,6,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Instagram,Medellín
+2023-02-10 16:54:41.885207,2023-02,Friday,6,Llavero NFC,30,0,30.0,10,20.0,66.67,Página Web,Medellín
+2023-02-12 00:44:41.058227,2023-02,Sunday,6,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Página Web,Cali
+2023-02-12 20:05:32.715993,2023-02,Sunday,6,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Facebook,Bogotá
+2023-02-15 22:34:12.364662,2023-02,Wednesday,7,Tarjeta NFC,25,5,23.75,8,15.75,66.32,Facebook,Cali
+2023-02-16 14:23:35.452602,2023-02,Thursday,7,Brazalete Premium,60,10,54.0,22,32.0,59.26,Página Web,Medellín
+2023-02-18 07:36:20.688798,2023-02,Saturday,7,Brazalete Premium,60,0,60.0,22,38.0,63.33,Referido,Cartagena
+2023-02-19 07:09:25.728455,2023-02,Sunday,7,Brazalete Premium,60,0,60.0,22,38.0,63.33,Instagram,Bogotá
+2023-02-20 20:01:07.209583,2023-02,Monday,8,Pulsera NFC Plus,45,5,42.75,18,24.75,57.89,Facebook,Medellín
+2023-02-21 03:30:50.967430,2023-02,Tuesday,8,Llavero NFC,30,0,30.0,10,20.0,66.67,Facebook,Cartagena
+2023-02-21 07:32:21.622829,2023-02,Tuesday,8,Pulsera NFC Plus,45,5,42.75,18,24.75,57.89,TikTok,Bogotá
+2023-02-21 13:34:50.007884,2023-02,Tuesday,8,Llavero NFC,30,0,30.0,10,20.0,66.67,Referido,Cartagena
+2023-02-23 01:24:02.787740,2023-02,Thursday,8,Llavero NFC,30,0,30.0,10,20.0,66.67,Página Web,Cali
+2023-02-23 07:53:43.374983,2023-02,Thursday,8,Brazalete Premium,60,0,60.0,22,38.0,63.33,Página Web,Bogotá
+2023-02-23 10:01:07.828215,2023-02,Thursday,8,Llavero NFC,30,0,30.0,10,20.0,66.67,TikTok,Bogotá
+2023-02-25 00:35:41.748179,2023-02,Saturday,8,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Cali
+2023-02-25 09:40:59.151779,2023-02,Saturday,8,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,WhatsApp,Bogotá
+2023-02-28 21:48:33.333553,2023-02,Tuesday,9,Brazalete Premium,60,0,60.0,22,38.0,63.33,Referido,Medellín
+2023-03-02 02:07:13.508438,2023-03,Thursday,9,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Instagram,Bogotá
+2023-03-03 22:57:25.280412,2023-03,Friday,9,Pulsera NFC Plus,45,5,42.75,18,24.75,57.89,Página Web,Medellín
+2023-03-05 06:20:53.361662,2023-03,Sunday,9,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Página Web,Bogotá
+2023-03-05 09:00:57.172329,2023-03,Sunday,9,Tarjeta NFC,25,0,25.0,8,17.0,68.0,TikTok,Barranquilla
+2023-03-07 07:09:46.795592,2023-03,Tuesday,10,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Facebook,Cartagena
+2023-03-07 10:42:56.784746,2023-03,Tuesday,10,Brazalete Premium,60,0,60.0,22,38.0,63.33,TikTok,Cartagena
+2023-03-08 15:11:20.505862,2023-03,Wednesday,10,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Instagram,Cali
+2023-03-11 09:00:03.448045,2023-03,Saturday,10,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,TikTok,Bogotá
+2023-03-17 02:04:28.027521,2023-03,Friday,11,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Referido,Cali
+2023-03-18 03:55:39.179944,2023-03,Saturday,11,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,Instagram,Bogotá
+2023-03-18 11:39:39.368374,2023-03,Saturday,11,Llavero NFC,30,0,30.0,10,20.0,66.67,TikTok,Bogotá
+2023-03-18 22:40:15.758649,2023-03,Saturday,11,Llavero NFC,30,0,30.0,10,20.0,66.67,TikTok,Bogotá
+2023-03-21 02:42:08.653980,2023-03,Tuesday,12,Brazalete Premium,60,15,51.0,22,29.0,56.86,TikTok,Medellín
+2023-03-27 04:09:07.900148,2023-03,Monday,13,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,Página Web,Cali
+2023-03-27 04:28:05.751688,2023-03,Monday,13,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,TikTok,Cali
+2023-03-27 09:57:03.625783,2023-03,Monday,13,Brazalete Premium,60,0,60.0,22,38.0,63.33,TikTok,Medellín
+2023-03-29 19:13:43.340790,2023-03,Wednesday,13,Llavero NFC,30,0,30.0,10,20.0,66.67,Referido,Bogotá
+2023-03-30 00:38:37.493435,2023-03,Thursday,13,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,TikTok,Cartagena
+2023-03-30 05:58:57.610185,2023-03,Thursday,13,Brazalete Premium,60,0,60.0,22,38.0,63.33,Instagram,Medellín
+2023-03-30 23:05:33.836910,2023-03,Thursday,13,Llavero NFC,30,15,25.5,10,15.5,60.78,TikTok,Medellín
+2023-04-03 13:01:58.629268,2023-04,Monday,14,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Bogotá
+2023-04-04 02:32:53.220474,2023-04,Tuesday,14,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,Instagram,Cali
+2023-04-05 13:38:14.291883,2023-04,Wednesday,14,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,TikTok,Cali
+2023-04-05 14:50:55.572750,2023-04,Wednesday,14,Llavero NFC,30,0,30.0,10,20.0,66.67,TikTok,Bogotá
+2023-04-06 04:53:51.668453,2023-04,Thursday,14,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Página Web,Bogotá
+2023-04-07 16:51:30.034620,2023-04,Friday,14,Llavero NFC,30,0,30.0,10,20.0,66.67,TikTok,Cali
+2023-04-10 06:38:03.733015,2023-04,Monday,15,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Facebook,Cali
+2023-04-11 03:19:57.709630,2023-04,Tuesday,15,Pulsera NFC Plus,45,5,42.75,18,24.75,57.89,Facebook,Bogotá
+2023-04-11 22:19:58.026743,2023-04,Tuesday,15,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Cartagena
+2023-04-12 20:08:18.817007,2023-04,Wednesday,15,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Facebook,Bogotá
+2023-04-12 20:48:50.585913,2023-04,Wednesday,15,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Instagram,Medellín
+2023-04-17 14:27:50.803580,2023-04,Monday,16,Llavero NFC,30,0,30.0,10,20.0,66.67,WhatsApp,Cartagena
+2023-04-17 21:38:49.309004,2023-04,Monday,16,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,Instagram,Medellín
+2023-04-18 00:09:33.944906,2023-04,Tuesday,16,Llavero NFC,30,0,30.0,10,20.0,66.67,TikTok,Medellín
+2023-04-19 11:58:13.046966,2023-04,Wednesday,16,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Bogotá
+2023-04-20 00:31:30.869051,2023-04,Thursday,16,Brazalete Premium,60,5,57.0,22,35.0,61.4,WhatsApp,Bogotá
+2023-04-26 22:29:30.142781,2023-04,Wednesday,17,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,TikTok,Cartagena
+2023-04-28 20:07:07.479547,2023-04,Friday,17,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,Facebook,Medellín
+2023-05-02 06:30:02.694270,2023-05,Tuesday,18,Pulsera NFC Plus,45,5,42.75,18,24.75,57.89,Instagram,Barranquilla
+2023-05-03 10:49:30.112216,2023-05,Wednesday,18,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,Referido,Bogotá
+2023-05-04 16:00:02.297498,2023-05,Thursday,18,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Bogotá
+2023-05-05 10:51:44.531819,2023-05,Friday,18,Brazalete Premium,60,0,60.0,22,38.0,63.33,Página Web,Bogotá
+2023-05-05 22:10:16.178168,2023-05,Friday,18,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Cali
+2023-05-10 12:54:43.353209,2023-05,Wednesday,19,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,Instagram,Bogotá
+2023-05-10 18:00:08.555315,2023-05,Wednesday,19,Pulsera NFC Plus,45,15,38.25,18,20.25,52.94,Instagram,Barranquilla
+2023-05-11 19:13:08.455080,2023-05,Thursday,19,Llavero NFC,30,0,30.0,10,20.0,66.67,TikTok,Medellín
+2023-05-13 01:13:56.711854,2023-05,Saturday,19,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,Facebook,Cartagena
+2023-05-13 03:53:32.200392,2023-05,Saturday,19,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Bogotá
+2023-05-14 05:14:25.032622,2023-05,Sunday,19,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Referido,Barranquilla
+2023-05-16 06:16:00.791123,2023-05,Tuesday,20,Tarjeta NFC,25,0,25.0,8,17.0,68.0,TikTok,Cali
+2023-05-17 02:43:31.334761,2023-05,Wednesday,20,Llavero NFC,30,0,30.0,10,20.0,66.67,TikTok,Cali
+2023-05-17 15:10:58.575176,2023-05,Wednesday,20,Tarjeta NFC,25,10,22.5,8,14.5,64.44,TikTok,Barranquilla
+2023-05-18 11:21:18.736184,2023-05,Thursday,20,Llavero NFC,30,0,30.0,10,20.0,66.67,TikTok,Cali
+2023-05-21 20:04:01.522486,2023-05,Sunday,20,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,Facebook,Medellín
+2023-05-22 07:03:10.363992,2023-05,Monday,21,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Bogotá
+2023-05-25 19:12:42.573965,2023-05,Thursday,21,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Bogotá
+2023-05-28 20:59:08.953938,2023-05,Sunday,21,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,Página Web,Cartagena
+2023-05-29 03:45:27.764514,2023-05,Monday,22,Brazalete Premium,60,0,60.0,22,38.0,63.33,Página Web,Medellín
+2023-06-02 03:22:59.762484,2023-06,Friday,22,Llavero NFC,30,5,28.5,10,18.5,64.91,TikTok,Cali
+2023-06-02 20:15:13.628087,2023-06,Friday,22,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Instagram,Medellín
+2023-06-03 07:14:27.734730,2023-06,Saturday,22,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Facebook,Bogotá
+2023-06-03 09:21:56.933796,2023-06,Saturday,22,Pulsera NFC Plus,45,5,42.75,18,24.75,57.89,TikTok,Bogotá
+2023-06-03 21:25:29.887070,2023-06,Saturday,22,Llavero NFC,30,10,27.0,10,17.0,62.96,Instagram,Cali
+2023-06-05 12:32:59.417960,2023-06,Monday,23,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Medellín
+2023-06-06 10:50:11.644401,2023-06,Tuesday,23,Llavero NFC,30,0,30.0,10,20.0,66.67,Referido,Bogotá
+2023-06-08 04:54:10.940335,2023-06,Thursday,23,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Facebook,Medellín
+2023-06-09 00:15:59.951359,2023-06,Friday,23,Pack 3 Pulseras,120,15,102.0,45,57.0,55.88,Instagram,Bogotá
+2023-06-09 12:15:48.507860,2023-06,Friday,23,Pack 3 Pulseras,120,10,108.0,45,63.0,58.33,Instagram,Medellín
+2023-06-10 07:13:39.098071,2023-06,Saturday,23,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Instagram,Bogotá
+2023-06-10 18:27:29.814047,2023-06,Saturday,23,Llavero NFC,30,5,28.5,10,18.5,64.91,Facebook,Cali
+2023-06-14 06:42:33.738620,2023-06,Wednesday,24,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Bogotá
+2023-06-16 02:47:25.266270,2023-06,Friday,24,Brazalete Premium,60,0,60.0,22,38.0,63.33,Instagram,Medellín
+2023-06-16 07:39:31.792492,2023-06,Friday,24,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Referido,Bogotá
+2023-06-19 19:06:44.437543,2023-06,Monday,25,Pulsera NFC Plus,45,5,42.75,18,24.75,57.89,Instagram,Bogotá
+2023-06-20 04:39:42.987872,2023-06,Tuesday,25,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,Facebook,Bogotá
+2023-06-21 15:19:14.793687,2023-06,Wednesday,25,Brazalete Premium,60,5,57.0,22,35.0,61.4,Instagram,Medellín
+2023-06-23 00:56:45.440044,2023-06,Friday,25,Pack 3 Pulseras,120,5,114.0,45,69.0,60.53,Instagram,Medellín
+2023-06-23 15:07:03.129713,2023-06,Friday,25,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Instagram,Bogotá
+2023-06-24 03:51:23.973730,2023-06,Saturday,25,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Referido,Cali
+2023-06-25 03:30:07.097003,2023-06,Sunday,25,Llavero NFC,30,0,30.0,10,20.0,66.67,Página Web,Barranquilla
+2023-06-26 08:01:17.837120,2023-06,Monday,26,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,Referido,Cali
+2023-06-26 11:15:04.396320,2023-06,Monday,26,Brazalete Premium,60,0,60.0,22,38.0,63.33,TikTok,Bogotá
+2023-06-27 13:12:08.106619,2023-06,Tuesday,26,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Facebook,Medellín
+2023-06-27 15:07:43.155559,2023-06,Tuesday,26,Pulsera NFC Plus,45,10,40.5,18,22.5,55.56,Instagram,Bogotá
+2023-06-27 16:02:15.520845,2023-06,Tuesday,26,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Bogotá
+2023-06-30 16:05:15.783609,2023-06,Friday,26,Brazalete Premium,60,0,60.0,22,38.0,63.33,Página Web,Cartagena
+2023-07-04 08:06:33.141863,2023-07,Tuesday,27,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,Instagram,Bogotá
+2023-07-04 13:05:18.727377,2023-07,Tuesday,27,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Medellín
+2023-07-05 02:38:46.974848,2023-07,Wednesday,27,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Medellín
+2023-07-06 05:20:00.470985,2023-07,Thursday,27,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Cali
+2023-07-10 16:02:32.156608,2023-07,Monday,28,Pack 3 Pulseras,120,10,108.0,45,63.0,58.33,Instagram,Medellín
+2023-07-14 08:39:57.531766,2023-07,Friday,28,Brazalete Premium,60,0,60.0,22,38.0,63.33,Facebook,Bogotá
+2023-07-14 18:53:44.134774,2023-07,Friday,28,Brazalete Premium,60,15,51.0,22,29.0,56.86,TikTok,Bogotá
+2023-07-15 17:20:05.664639,2023-07,Saturday,28,Llavero NFC,30,5,28.5,10,18.5,64.91,Página Web,Medellín
+2023-07-16 06:46:19.364101,2023-07,Sunday,28,Llavero NFC,30,0,30.0,10,20.0,66.67,Referido,Bogotá
+2023-07-16 15:56:17.394191,2023-07,Sunday,28,Pulsera NFC Plus,45,10,40.5,18,22.5,55.56,TikTok,Bogotá
+2023-07-18 13:00:08.314482,2023-07,Tuesday,29,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Bogotá
+2023-07-20 00:48:20.140274,2023-07,Thursday,29,Brazalete Premium,60,5,57.0,22,35.0,61.4,TikTok,Bogotá
+2023-07-20 18:32:52.379847,2023-07,Thursday,29,Brazalete Premium,60,0,60.0,22,38.0,63.33,Facebook,Bogotá
+2023-07-20 19:25:48.616151,2023-07,Thursday,29,Pack 3 Pulseras,120,5,114.0,45,69.0,60.53,Instagram,Bogotá
+2023-07-22 02:33:34.589330,2023-07,Saturday,29,Pack 3 Pulseras,120,5,114.0,45,69.0,60.53,Facebook,Medellín
+2023-07-24 11:58:25.382553,2023-07,Monday,30,Llavero NFC,30,5,28.5,10,18.5,64.91,TikTok,Cali
+2023-07-24 12:55:25.327435,2023-07,Monday,30,Brazalete Premium,60,5,57.0,22,35.0,61.4,Facebook,Barranquilla
+2023-07-25 01:38:20.441018,2023-07,Tuesday,30,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,TikTok,Bogotá
+2023-07-30 06:19:14.288159,2023-07,Sunday,30,Brazalete Premium,60,0,60.0,22,38.0,63.33,Instagram,Bogotá
+2023-07-30 19:29:20.276669,2023-07,Sunday,30,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Página Web,Bogotá
+2023-07-31 03:46:47.920520,2023-07,Monday,31,Llavero NFC,30,0,30.0,10,20.0,66.67,Referido,Medellín
+2023-07-31 22:34:43.366837,2023-07,Monday,31,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Cali
+2023-08-01 05:13:37.934727,2023-08,Tuesday,31,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,Página Web,Bogotá
+2023-08-03 15:09:09.302520,2023-08,Thursday,31,Tarjeta NFC,25,15,21.25,8,13.25,62.35,TikTok,Cartagena
+2023-08-06 14:00:21.742355,2023-08,Sunday,31,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Página Web,Bogotá
+2023-08-12 06:55:09.780977,2023-08,Saturday,32,Tarjeta NFC,25,5,23.75,8,15.75,66.32,Referido,Medellín
+2023-08-13 01:39:28.164452,2023-08,Sunday,32,Tarjeta NFC,25,0,25.0,8,17.0,68.0,TikTok,Cali
+2023-08-16 21:45:13.626942,2023-08,Wednesday,33,Llavero NFC,30,5,28.5,10,18.5,64.91,Instagram,Barranquilla
+2023-08-18 02:26:21.184994,2023-08,Friday,33,Pulsera NFC Plus,45,10,40.5,18,22.5,55.56,Instagram,Cali
+2023-08-22 04:49:13.663770,2023-08,Tuesday,34,Tarjeta NFC,25,0,25.0,8,17.0,68.0,TikTok,Barranquilla
+2023-08-22 10:29:51.016454,2023-08,Tuesday,34,Llavero NFC,30,0,30.0,10,20.0,66.67,Facebook,Bogotá
+2023-08-22 18:55:30.286380,2023-08,Tuesday,34,Brazalete Premium,60,5,57.0,22,35.0,61.4,Instagram,Barranquilla
+2023-08-24 20:12:27.087431,2023-08,Thursday,34,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Bogotá
+2023-08-25 21:11:31.241812,2023-08,Friday,34,Brazalete Premium,60,0,60.0,22,38.0,63.33,Referido,Barranquilla
+2023-08-28 16:16:53.388936,2023-08,Monday,35,Llavero NFC,30,0,30.0,10,20.0,66.67,WhatsApp,Medellín
+2023-08-29 07:45:29.800669,2023-08,Tuesday,35,Llavero NFC,30,0,30.0,10,20.0,66.67,TikTok,Barranquilla
+2023-09-07 00:20:27.863448,2023-09,Thursday,36,Brazalete Premium,60,0,60.0,22,38.0,63.33,Instagram,Medellín
+2023-09-08 04:56:45.157203,2023-09,Friday,36,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Medellín
+2023-09-12 05:11:47.146588,2023-09,Tuesday,37,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Medellín
+2023-09-15 19:54:15.765560,2023-09,Friday,37,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Página Web,Cali
+2023-09-16 12:22:26.703511,2023-09,Saturday,37,Brazalete Premium,60,10,54.0,22,32.0,59.26,Instagram,Bogotá
+2023-09-16 21:34:25.882897,2023-09,Saturday,37,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Facebook,Bogotá
+2023-09-25 05:47:20.294438,2023-09,Monday,39,Tarjeta NFC,25,10,22.5,8,14.5,64.44,Instagram,Bogotá
+2023-09-26 10:08:03.939111,2023-09,Tuesday,39,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Facebook,Bogotá
+2023-09-26 21:57:06.695289,2023-09,Tuesday,39,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Facebook,Barranquilla
+2023-09-27 14:41:50.981132,2023-09,Wednesday,39,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Referido,Bogotá
+2023-09-28 08:47:53.628353,2023-09,Thursday,39,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Cartagena
+2023-09-29 11:56:39.916370,2023-09,Friday,39,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Bogotá
+2023-10-01 19:52:10.292092,2023-10,Sunday,39,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Bogotá
+2023-10-02 10:33:23.284982,2023-10,Monday,40,Llavero NFC,30,0,30.0,10,20.0,66.67,Página Web,Cali
+2023-10-02 11:06:21.313408,2023-10,Monday,40,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,Página Web,Cali
+2023-10-02 17:05:51.116760,2023-10,Monday,40,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Facebook,Medellín
+2023-10-05 16:18:37.213280,2023-10,Thursday,40,Llavero NFC,30,0,30.0,10,20.0,66.67,Facebook,Medellín
+2023-10-06 20:49:57.550715,2023-10,Friday,40,Brazalete Premium,60,0,60.0,22,38.0,63.33,Facebook,Cali
+2023-10-07 04:37:50.860825,2023-10,Saturday,40,Llavero NFC,30,5,28.5,10,18.5,64.91,Instagram,Bogotá
+2023-10-07 14:28:02.769434,2023-10,Saturday,40,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Página Web,Cartagena
+2023-10-08 18:31:41.091499,2023-10,Sunday,40,Brazalete Premium,60,0,60.0,22,38.0,63.33,TikTok,Cartagena
+2023-10-09 21:35:59.150900,2023-10,Monday,41,Pack 3 Pulseras,120,15,102.0,45,57.0,55.88,TikTok,Cali
+2023-10-11 00:11:30.352468,2023-10,Wednesday,41,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,TikTok,Bogotá
+2023-10-11 06:13:56.306370,2023-10,Wednesday,41,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,Instagram,Cali
+2023-10-11 22:58:16.858251,2023-10,Wednesday,41,Llavero NFC,30,15,25.5,10,15.5,60.78,Instagram,Bogotá
+2023-10-13 03:28:32.447129,2023-10,Friday,41,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Referido,Bogotá
+2023-10-13 09:53:27.586398,2023-10,Friday,41,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Bogotá
+2023-10-14 12:24:29.808392,2023-10,Saturday,41,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,Facebook,Medellín
+2023-10-17 04:32:28.243598,2023-10,Tuesday,42,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Barranquilla
+2023-10-18 02:52:15.931448,2023-10,Wednesday,42,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,TikTok,Cali
+2023-10-20 12:47:29.256416,2023-10,Friday,42,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Instagram,Cali
+2023-10-22 11:32:26.657026,2023-10,Sunday,42,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,TikTok,Medellín
+2023-10-23 04:28:57.480884,2023-10,Monday,43,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Referido,Bogotá
+2023-10-24 06:48:55.055549,2023-10,Tuesday,43,Pulsera NFC Plus,45,15,38.25,18,20.25,52.94,Instagram,Bogotá
+2023-10-24 07:29:22.105340,2023-10,Tuesday,43,Pulsera NFC Plus,45,5,42.75,18,24.75,57.89,Facebook,Cartagena
+2023-10-25 21:45:44.665906,2023-10,Wednesday,43,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,TikTok,Bogotá
+2023-10-26 12:05:29.401852,2023-10,Thursday,43,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Facebook,Barranquilla
+2023-10-27 14:36:27.273095,2023-10,Friday,43,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Página Web,Medellín
+2023-10-27 21:03:58.371512,2023-10,Friday,43,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Referido,Medellín
+2023-10-30 16:15:19.814794,2023-10,Monday,44,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Cali
+2023-10-31 03:21:05.166718,2023-10,Tuesday,44,Brazalete Premium,60,0,60.0,22,38.0,63.33,Instagram,Medellín
+2023-11-01 00:19:25.475715,2023-11,Wednesday,44,Llavero NFC,30,5,28.5,10,18.5,64.91,Instagram,Barranquilla
+2023-11-03 10:58:35.029022,2023-11,Friday,44,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Facebook,Cartagena
+2023-11-07 07:06:57.377189,2023-11,Tuesday,45,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Medellín
+2023-11-08 06:04:53.662264,2023-11,Wednesday,45,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,TikTok,Bogotá
+2023-11-11 05:00:49.056788,2023-11,Saturday,45,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Facebook,Medellín
+2023-11-11 23:44:54.614918,2023-11,Saturday,45,Pulsera NFC Plus,45,5,42.75,18,24.75,57.89,TikTok,Cartagena
+2023-11-12 17:46:58.683410,2023-11,Sunday,45,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Referido,Bogotá
+2023-11-16 20:00:11.581227,2023-11,Thursday,46,Pulsera NFC Plus,45,5,42.75,18,24.75,57.89,Instagram,Medellín
+2023-11-19 14:16:44.567387,2023-11,Sunday,46,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Medellín
+2023-11-19 15:03:40.059139,2023-11,Sunday,46,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Referido,Cali
+2023-11-20 11:00:01.837326,2023-11,Monday,47,Llavero NFC,30,0,30.0,10,20.0,66.67,TikTok,Bogotá
+2023-11-23 10:52:52.760426,2023-11,Thursday,47,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Facebook,Cali
+2023-11-23 20:49:14.796905,2023-11,Thursday,47,Llavero NFC,30,0,30.0,10,20.0,66.67,TikTok,Cartagena
+2023-11-25 05:00:40.009979,2023-11,Saturday,47,Llavero NFC,30,5,28.5,10,18.5,64.91,Instagram,Bogotá
+2023-11-28 02:38:47.032005,2023-11,Tuesday,48,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Referido,Bogotá
+2023-11-28 17:16:03.861539,2023-11,Tuesday,48,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Referido,Cartagena
+2023-11-29 19:43:51.716901,2023-11,Wednesday,48,Brazalete Premium,60,0,60.0,22,38.0,63.33,Facebook,Bogotá
+2023-11-30 23:59:19.171158,2023-11,Thursday,48,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Instagram,Barranquilla
+2023-12-01 01:43:13.196791,2023-12,Friday,48,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Facebook,Medellín
+2023-12-02 19:03:16.915197,2023-12,Saturday,48,Brazalete Premium,60,15,51.0,22,29.0,56.86,TikTok,Bogotá
+2023-12-03 06:05:58.865554,2023-12,Sunday,48,Pack 3 Pulseras,120,5,114.0,45,69.0,60.53,Instagram,Barranquilla
+2023-12-07 02:21:24.462476,2023-12,Thursday,49,Pulsera NFC Plus,45,10,40.5,18,22.5,55.56,Página Web,Medellín
+2023-12-07 07:41:55.154214,2023-12,Thursday,49,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Medellín
+2023-12-08 17:16:06.007870,2023-12,Friday,49,Brazalete Premium,60,0,60.0,22,38.0,63.33,WhatsApp,Bogotá
+2023-12-11 14:26:25.998245,2023-12,Monday,50,Tarjeta NFC,25,0,25.0,8,17.0,68.0,TikTok,Medellín
+2023-12-12 05:44:08.174754,2023-12,Tuesday,50,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Bogotá
+2023-12-12 16:09:41.385992,2023-12,Tuesday,50,Pulsera NFC Plus,45,5,42.75,18,24.75,57.89,TikTok,Bogotá
+2023-12-12 20:07:22.171125,2023-12,Tuesday,50,Llavero NFC,30,0,30.0,10,20.0,66.67,Página Web,Cartagena
+2023-12-12 21:46:23.987319,2023-12,Tuesday,50,Llavero NFC,30,0,30.0,10,20.0,66.67,Referido,Bogotá
+2023-12-13 18:16:01.923491,2023-12,Wednesday,50,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Referido,Cali
+2023-12-14 11:31:19.305122,2023-12,Thursday,50,Llavero NFC,30,0,30.0,10,20.0,66.67,Facebook,Bogotá
+2023-12-15 00:52:53.145237,2023-12,Friday,50,Llavero NFC,30,0,30.0,10,20.0,66.67,Facebook,Cali
+2023-12-15 02:33:11.176699,2023-12,Friday,50,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Referido,Bogotá
+2023-12-17 13:10:57.688341,2023-12,Sunday,50,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Cartagena
+2023-12-17 18:15:43.997816,2023-12,Sunday,50,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,TikTok,Medellín
+2023-12-18 05:38:55.732087,2023-12,Monday,51,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Instagram,Bogotá
+2023-12-19 06:20:39.283892,2023-12,Tuesday,51,Brazalete Premium,60,5,57.0,22,35.0,61.4,WhatsApp,Bogotá
+2023-12-19 10:16:08.276043,2023-12,Tuesday,51,Llavero NFC,30,5,28.5,10,18.5,64.91,Página Web,Bogotá
+2023-12-21 16:47:22.232813,2023-12,Thursday,51,Llavero NFC,30,10,27.0,10,17.0,62.96,Instagram,Medellín
+2023-12-21 21:07:38.456083,2023-12,Thursday,51,Pulsera NFC Plus,45,5,42.75,18,24.75,57.89,Referido,Bogotá
+2023-12-22 23:18:01.240279,2023-12,Friday,51,Llavero NFC,30,0,30.0,10,20.0,66.67,Página Web,Barranquilla
+2023-12-26 01:21:33.626533,2023-12,Tuesday,52,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Medellín
+2023-12-26 15:31:16.855445,2023-12,Tuesday,52,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Facebook,Bogotá
+2023-12-27 08:25:51.381235,2023-12,Wednesday,52,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Página Web,Medellín
+2023-12-27 11:13:35.128233,2023-12,Wednesday,52,Llavero NFC,30,5,28.5,10,18.5,64.91,Instagram,Cali
+2023-12-28 17:41:31.251028,2023-12,Thursday,52,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Facebook,Bogotá
+2023-12-29 06:31:37.856611,2023-12,Friday,52,Pulsera NFC Plus,45,10,40.5,18,22.5,55.56,Instagram,Bogotá
+2024-01-02 23:39:51.167544,2024-01,Tuesday,1,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Página Web,Bogotá
+2024-01-05 22:48:12.231293,2024-01,Friday,1,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,WhatsApp,Cali
+2024-01-08 22:07:14.731853,2024-01,Monday,2,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Página Web,Cali
+2024-01-09 14:11:22.485895,2024-01,Tuesday,2,Brazalete Premium,60,5,57.0,22,35.0,61.4,TikTok,Medellín
+2024-01-13 06:02:53.232341,2024-01,Saturday,2,Llavero NFC,30,0,30.0,10,20.0,66.67,Página Web,Barranquilla
+2024-01-13 18:35:40.814034,2024-01,Saturday,2,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Referido,Barranquilla
+2024-01-16 00:02:45.587947,2024-01,Tuesday,3,Brazalete Premium,60,0,60.0,22,38.0,63.33,TikTok,Medellín
+2024-01-16 00:46:28.040264,2024-01,Tuesday,3,Llavero NFC,30,0,30.0,10,20.0,66.67,Referido,Barranquilla
+2024-01-16 13:41:39.372007,2024-01,Tuesday,3,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Bogotá
+2024-01-19 06:34:26.254506,2024-01,Friday,3,Llavero NFC,30,0,30.0,10,20.0,66.67,Facebook,Bogotá
+2024-01-19 13:21:05.171641,2024-01,Friday,3,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Bogotá
+2024-01-19 20:21:37.574505,2024-01,Friday,3,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Instagram,Bogotá
+2024-01-20 04:43:57.321537,2024-01,Saturday,3,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Medellín
+2024-01-21 22:39:31.081605,2024-01,Sunday,3,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Facebook,Cartagena
+2024-01-22 14:34:59.013982,2024-01,Monday,4,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,TikTok,Bogotá
+2024-01-24 20:23:47.459537,2024-01,Wednesday,4,Llavero NFC,30,0,30.0,10,20.0,66.67,Referido,Bogotá
+2024-01-25 10:21:34.890372,2024-01,Thursday,4,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Instagram,Medellín
+2024-01-26 04:03:53.895822,2024-01,Friday,4,Llavero NFC,30,0,30.0,10,20.0,66.67,TikTok,Cartagena
+2024-01-30 11:00:45.066192,2024-01,Tuesday,5,Llavero NFC,30,10,27.0,10,17.0,62.96,TikTok,Bogotá
+2024-02-01 08:55:23.577296,2024-02,Thursday,5,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,Referido,Medellín
+2024-02-01 10:42:03.013566,2024-02,Thursday,5,Tarjeta NFC,25,0,25.0,8,17.0,68.0,TikTok,Bogotá
+2024-02-02 14:32:49.315955,2024-02,Friday,5,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Facebook,Bogotá
+2024-02-03 00:54:35.748033,2024-02,Saturday,5,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Página Web,Cartagena
+2024-02-03 08:45:33.699391,2024-02,Saturday,5,Pulsera NFC Plus,45,5,42.75,18,24.75,57.89,Facebook,Cartagena
+2024-02-04 16:02:55.008588,2024-02,Sunday,5,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Bogotá
+2024-02-07 21:24:04.306973,2024-02,Wednesday,6,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Cartagena
+2024-02-09 11:01:55.081384,2024-02,Friday,6,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Página Web,Medellín
+2024-02-12 14:01:24.141600,2024-02,Monday,7,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Barranquilla
+2024-02-17 12:44:31.630085,2024-02,Saturday,7,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Página Web,Medellín
+2024-02-18 18:48:55.553490,2024-02,Sunday,7,Brazalete Premium,60,5,57.0,22,35.0,61.4,TikTok,Medellín
+2024-02-20 09:19:38.197473,2024-02,Tuesday,8,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Página Web,Medellín
+2024-02-20 20:15:48.381363,2024-02,Tuesday,8,Llavero NFC,30,0,30.0,10,20.0,66.67,Referido,Cali
+2024-02-25 09:59:43.871295,2024-02,Sunday,8,Llavero NFC,30,0,30.0,10,20.0,66.67,WhatsApp,Bogotá
+2024-02-25 22:45:14.134048,2024-02,Sunday,8,Pack 3 Pulseras,120,10,108.0,45,63.0,58.33,TikTok,Bogotá
+2024-02-26 02:43:35.842701,2024-02,Monday,9,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Referido,Bogotá
+2024-02-26 15:29:43.644708,2024-02,Monday,9,Llavero NFC,30,5,28.5,10,18.5,64.91,TikTok,Cali
+2024-02-28 05:20:25.862367,2024-02,Wednesday,9,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,TikTok,Bogotá
+2024-03-01 19:29:20.950506,2024-03,Friday,9,Brazalete Premium,60,0,60.0,22,38.0,63.33,Facebook,Cali
+2024-03-04 16:56:44.873139,2024-03,Monday,10,Brazalete Premium,60,0,60.0,22,38.0,63.33,Página Web,Cartagena
+2024-03-09 23:12:26.357795,2024-03,Saturday,10,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,WhatsApp,Bogotá
+2024-03-10 04:07:11.626497,2024-03,Sunday,10,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Referido,Cali
+2024-03-10 12:04:01.705046,2024-03,Sunday,10,Tarjeta NFC,25,5,23.75,8,15.75,66.32,TikTok,Medellín
+2024-03-11 20:51:36.090650,2024-03,Monday,11,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,TikTok,Barranquilla
+2024-03-13 23:59:21.248883,2024-03,Wednesday,11,Llavero NFC,30,0,30.0,10,20.0,66.67,Referido,Bogotá
+2024-03-14 19:19:08.024470,2024-03,Thursday,11,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Cali
+2024-03-16 20:41:44.855772,2024-03,Saturday,11,Pulsera NFC Plus,45,10,40.5,18,22.5,55.56,Instagram,Barranquilla
+2024-03-17 05:36:34.033724,2024-03,Sunday,11,Brazalete Premium,60,5,57.0,22,35.0,61.4,TikTok,Cartagena
+2024-03-17 09:14:19.858985,2024-03,Sunday,11,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Cali
+2024-03-17 21:52:06.893006,2024-03,Sunday,11,Pulsera NFC Plus,45,15,38.25,18,20.25,52.94,Instagram,Medellín
+2024-03-18 07:43:33.325954,2024-03,Monday,12,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Medellín
+2024-03-20 16:47:41.985043,2024-03,Wednesday,12,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Barranquilla
+2024-03-21 05:48:23.610500,2024-03,Thursday,12,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Medellín
+2024-03-22 04:52:46.961172,2024-03,Friday,12,Pulsera NFC Plus,45,5,42.75,18,24.75,57.89,WhatsApp,Bogotá
+2024-03-22 15:15:55.773534,2024-03,Friday,12,Tarjeta NFC,25,0,25.0,8,17.0,68.0,TikTok,Cartagena
+2024-03-25 03:21:27.888783,2024-03,Monday,13,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,TikTok,Cali
+2024-03-28 11:46:34.751737,2024-03,Thursday,13,Llavero NFC,30,0,30.0,10,20.0,66.67,Facebook,Cali
+2024-03-30 12:19:42.114175,2024-03,Saturday,13,Pulsera NFC Plus,45,10,40.5,18,22.5,55.56,Instagram,Bogotá
+2024-04-01 01:48:14.047925,2024-04,Monday,14,Llavero NFC,30,0,30.0,10,20.0,66.67,Página Web,Cali
+2024-04-01 10:41:00.597091,2024-04,Monday,14,Llavero NFC,30,0,30.0,10,20.0,66.67,Referido,Bogotá
+2024-04-06 07:14:45.869797,2024-04,Saturday,14,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Cali
+2024-04-08 16:13:24.856017,2024-04,Monday,15,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,TikTok,Bogotá
+2024-04-09 17:17:41.796805,2024-04,Tuesday,15,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Página Web,Cali
+2024-04-10 17:50:09.255999,2024-04,Wednesday,15,Pulsera NFC Plus,45,10,40.5,18,22.5,55.56,Página Web,Cartagena
+2024-04-12 01:57:19.774369,2024-04,Friday,15,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,TikTok,Bogotá
+2024-04-12 15:26:34.364154,2024-04,Friday,15,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Facebook,Cartagena
+2024-04-14 23:00:48.826768,2024-04,Sunday,15,Brazalete Premium,60,0,60.0,22,38.0,63.33,Instagram,Medellín
+2024-04-16 06:06:26.253626,2024-04,Tuesday,16,Pulsera NFC Plus,45,5,42.75,18,24.75,57.89,WhatsApp,Barranquilla
+2024-04-17 22:22:19.971245,2024-04,Wednesday,16,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Instagram,Cali
+2024-04-18 10:06:56.385625,2024-04,Thursday,16,Brazalete Premium,60,0,60.0,22,38.0,63.33,Página Web,Medellín
+2024-04-20 19:37:10.465751,2024-04,Saturday,16,Llavero NFC,30,5,28.5,10,18.5,64.91,Facebook,Cali
+2024-04-24 00:39:17.592136,2024-04,Wednesday,17,Llavero NFC,30,5,28.5,10,18.5,64.91,Facebook,Barranquilla
+2024-04-24 01:05:48.244358,2024-04,Wednesday,17,Llavero NFC,30,5,28.5,10,18.5,64.91,TikTok,Medellín
+2024-04-29 08:22:49.812852,2024-04,Monday,18,Pulsera NFC Plus,45,10,40.5,18,22.5,55.56,Instagram,Bogotá
+2024-04-29 10:02:08.803393,2024-04,Monday,18,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,Instagram,Cali
+2024-04-30 22:37:47.997039,2024-04,Tuesday,18,Brazalete Premium,60,5,57.0,22,35.0,61.4,Instagram,Barranquilla
+2024-05-02 01:22:41.012547,2024-05,Thursday,18,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,Instagram,Cali
+2024-05-02 08:05:35.218366,2024-05,Thursday,18,Pulsera NFC Plus,45,5,42.75,18,24.75,57.89,Referido,Cali
+2024-05-03 13:49:03.360014,2024-05,Friday,18,Tarjeta NFC,25,0,25.0,8,17.0,68.0,TikTok,Medellín
+2024-05-04 06:22:49.419111,2024-05,Saturday,18,Pack 3 Pulseras,120,5,114.0,45,69.0,60.53,Instagram,Barranquilla
+2024-05-04 19:43:58.247107,2024-05,Saturday,18,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,WhatsApp,Bogotá
+2024-05-04 21:06:55.051993,2024-05,Saturday,18,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Página Web,Medellín
+2024-05-05 14:39:14.711252,2024-05,Sunday,18,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Página Web,Bogotá
+2024-05-06 15:04:41.595846,2024-05,Monday,19,Llavero NFC,30,15,25.5,10,15.5,60.78,WhatsApp,Bogotá
+2024-05-09 07:42:53.323892,2024-05,Thursday,19,Brazalete Premium,60,10,54.0,22,32.0,59.26,Instagram,Bogotá
+2024-05-10 12:45:03.867579,2024-05,Friday,19,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,TikTok,Bogotá
+2024-05-10 21:54:58.210945,2024-05,Friday,19,Brazalete Premium,60,0,60.0,22,38.0,63.33,Referido,Cali
+2024-05-11 11:44:04.375825,2024-05,Saturday,19,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Facebook,Bogotá
+2024-05-13 15:06:15.122520,2024-05,Monday,20,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Medellín
+2024-05-14 12:22:58.690016,2024-05,Tuesday,20,Pulsera NFC Plus,45,5,42.75,18,24.75,57.89,Referido,Bogotá
+2024-05-18 08:14:23.912675,2024-05,Saturday,20,Brazalete Premium,60,0,60.0,22,38.0,63.33,Instagram,Bogotá
+2024-05-19 21:11:06.626120,2024-05,Sunday,20,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Instagram,Bogotá
+2024-05-21 20:41:11.198938,2024-05,Tuesday,21,Llavero NFC,30,5,28.5,10,18.5,64.91,TikTok,Bogotá
+2024-05-22 14:45:28.930669,2024-05,Wednesday,21,Llavero NFC,30,0,30.0,10,20.0,66.67,Facebook,Medellín
+2024-05-26 03:22:19.778170,2024-05,Sunday,21,Brazalete Premium,60,0,60.0,22,38.0,63.33,Facebook,Cali
+2024-05-26 10:54:35.180662,2024-05,Sunday,21,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Medellín
+2024-05-27 23:11:38.868926,2024-05,Monday,22,Brazalete Premium,60,0,60.0,22,38.0,63.33,Página Web,Medellín
+2024-05-28 08:46:37.501078,2024-05,Tuesday,22,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Bogotá
+2024-05-28 11:46:09.441698,2024-05,Tuesday,22,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Barranquilla
+2024-05-29 00:57:17.475147,2024-05,Wednesday,22,Llavero NFC,30,0,30.0,10,20.0,66.67,Página Web,Medellín
+2024-05-29 19:53:19.536251,2024-05,Wednesday,22,Pulsera NFC Plus,45,5,42.75,18,24.75,57.89,WhatsApp,Medellín
+2024-06-02 02:11:45.888604,2024-06,Sunday,22,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Página Web,Bogotá
+2024-06-03 02:09:36.976304,2024-06,Monday,23,Llavero NFC,30,5,28.5,10,18.5,64.91,Referido,Bogotá
+2024-06-04 20:16:48.262951,2024-06,Tuesday,23,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Facebook,Bogotá
+2024-06-05 08:33:16.696118,2024-06,Wednesday,23,Brazalete Premium,60,0,60.0,22,38.0,63.33,Facebook,Bogotá
+2024-06-08 19:26:28.134055,2024-06,Saturday,23,Llavero NFC,30,0,30.0,10,20.0,66.67,Instagram,Medellín
+2024-06-09 11:54:33.670517,2024-06,Sunday,23,Llavero NFC,30,0,30.0,10,20.0,66.67,TikTok,Medellín
+2024-06-09 14:32:41.373382,2024-06,Sunday,23,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,TikTok,Medellín
+2024-06-10 03:16:34.247199,2024-06,Monday,24,Tarjeta NFC,25,15,21.25,8,13.25,62.35,Instagram,Cali
+2024-06-11 05:38:31.781072,2024-06,Tuesday,24,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Referido,Barranquilla
+2024-06-11 19:02:41.095494,2024-06,Tuesday,24,Pack 3 Pulseras,120,0,120.0,45,75.0,62.5,TikTok,Cali
+2024-06-13 09:26:13.064016,2024-06,Thursday,24,Tarjeta NFC,25,5,23.75,8,15.75,66.32,Instagram,Cartagena
+2024-06-13 13:41:55.329831,2024-06,Thursday,24,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Instagram,Bogotá
+2024-06-14 14:13:56.683112,2024-06,Friday,24,Pulsera NFC Plus,45,0,45.0,18,27.0,60.0,Facebook,Bogotá
+2024-06-15 06:19:49.114114,2024-06,Saturday,24,Brazalete Premium,60,0,60.0,22,38.0,63.33,Instagram,Bogotá
+2024-06-16 19:33:56.337397,2024-06,Sunday,24,Tarjeta NFC,25,0,25.0,8,17.0,68.0,Página Web,Medellín
+2024-06-22 03:57:48.782395,2024-06,Saturday,25,Llavero NFC,30,0,30.0,10,20.0,66.67,TikTok,Barranquilla
+2024-06-22 20:09:59.101967,2024-06,Saturday,25,Brazalete Premium,60,0,60.0,22,38.0,63.33,TikTok,Bogotá
+2024-06-24 13:39:56.346359,2024-06,Monday,26,Brazalete Premium,60,5,57.0,22,35.0,61.4,Facebook,Cartagena

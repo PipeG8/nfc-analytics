@@ -10,7 +10,7 @@ __pycache__/
 .Python
 env/
 venv/
-cargar datos a sqlite.py
+*cargar datos a sqlite.py
 # Jupyter
 .ipynb_checkpoints/
 #*.ipynb

@@ -15,7 +15,7 @@ Análisis completo de un negocio de accesorios NFC usando Python, SQL y Power BI
 ## 🔧 Tecnologías
 
 - **Python 3.9+** (Pandas, NumPy, Matplotlib)
-- **SQL** (SQLite)
+- **SQL** (postgresql)
 - **Power BI**
 - **Git + GitHub**
 

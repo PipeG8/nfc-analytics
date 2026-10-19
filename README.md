@@ -44,17 +44,32 @@ Esto crea `data/nfc_sales_synthetic.csv`
 
 ### 2. Análisis con Python (próximos pasos)
 ```bash
-jupyter notebook notebooks/
+jupyter data_preprocessing.ipynb
 ```
+En este paso se hace limpieza, estandarización de datos y analisis estadisticio inicial lo cual nos permite obtener nuestros archivos csv con los cuales se crea nuestra base de datos en SQL
 
-### 3. Abrir dashboard
+### 3. Creación de base de datos en SQL 
+
+Se crea la base de datos en postgresql incluyendo las llaves primarias y foraneas junto con nuestro esquema de base de datos, ademas se crea la dimensión o tabla calendario y se hace difentes consultas de prueba como se puede evidenciar en los archivos.
+
+-revision_tamaño_tablas.sql
+-cambiar_nombre_columna.sql
+-crear_tabla_calendario.sql
+
+### 4. Abrir dashboard
 Abre `dashboard/nfc_dashboard.pbix` en Power BI
-
-## 📁 Estructura
 
 ## 📈 Insights Principales
 
-(Se actualizarán después del análisis)
+El 80% de las ventas se concentra en Bogota, Medellin y cali, siendo Bogota la que mas vende con 6797.25$ correspondiente al 36.86%
+
+Nuestros 3 productos mas vendidos son pulsera NFC, Pack 3 pulseras, brazalete Premium las cuales corresponden al 77.93% de las ventas, donde las pulseras NFC plus son el producto mas vendido con un 31,12% del total de las ventas
+
+El dia de la semana que mas se vende es el lunes con un promedio de ventas de diarias de 55$
+
+el ingreso promedio mensual es de 1540$ y el promedio de venta diario es 34.21$
+
+El 70.79% de las transacciones son tienen como origen instagram,TikTok y facebook, siendo instagrma el que mas clientes atrae con un 33% de las transacciones 
 
 ## 👨‍💻 Autor
 

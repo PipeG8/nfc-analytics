@@ -13,8 +13,8 @@ venv/
 *cargar datos a sqlite.py
 # Jupyter
 .ipynb_checkpoints/
-#*.ipynb
 
+*.mp4
 # IDE
 .vscode/
 .idea/

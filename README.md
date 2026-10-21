@@ -44,7 +44,7 @@ Esto crea `data/nfc_sales_synthetic.csv`
 
 ### 2. Análisis con Python (próximos pasos)
 ```bash
-jupyter data_preprocessing.ipynb
+data_preprocessing.ipynb
 ```
 En este paso se hace limpieza, estandarización de datos y analisis estadisticio inicial lo cual nos permite obtener nuestros archivos csv con los cuales se crea nuestra base de datos en SQL
 
@@ -57,7 +57,9 @@ Se crea la base de datos en postgresql incluyendo las llaves primarias y foranea
 -crear_tabla_calendario.sql
 
 ### 4. Abrir dashboard
-Abre `dashboard/nfc_dashboard.pbix` en Power BI
+Abre `nfc_dashboard.pbix` en Power BI
+
+
 
 ## 📈 Insights Principales
 

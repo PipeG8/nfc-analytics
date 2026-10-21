@@ -32,7 +32,7 @@ Análisis completo de un negocio de accesorios NFC usando Python, SQL y Power BI
 
 ### Estadísticas Generales
 
-- Ingresos totales: $18,500 COP
+- Ingresos totales: ~$18,500 COP
 - Ticket promedio: $48.68
 - Margen promedio: 62%
 
@@ -41,6 +41,12 @@ Análisis completo de un negocio de accesorios NFC usando Python, SQL y Power BI
 El 80% de las ventas se concentra en Bogota, Medellin y cali, siendo Bogota la que mas vende con 6797.25$ correspondiente a ~36.86%   
 
 Nuestros 3 productos mas vendidos son pulsera NFC, Pack 3 pulseras, brazalete Premium las cuales corresponden al 77.93% de las ventas, donde las pulseras NFC plus son el producto mas vendido con un 31,12% del total de las ventas
+
+Se evidencia que hay una disminución de las ventas de la empresa en un 24.95% entre el año 2023 y 2024 lo cual se da por la disminución transacciónes(14.50% menos) y un ticket promedio 12.20% mas bajo como se muestra en la siguiente tabla, el uamento de ventas y valor de ticket promedio permitira mejorar nuestro crecimiento.
+
+<p align="center">
+  <img src="https://github.com/PipeG8/nfc-analytics/blob/main/imagenes%20y%20videos/comparativo_crecimiento_h1.png" alt="visulización y Despliegue del dashboard" width="400px">
+</p>
 
 El dia de la semana que mas se vende es el lunes con un promedio de ventas de diarias de 55$
 

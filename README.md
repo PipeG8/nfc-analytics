@@ -33,6 +33,20 @@ Análisis completo de un negocio de accesorios NFC usando Python, SQL y Power BI
 - Ticket promedio: $48.68
 - Margen promedio: 62%
 
+## 📈 Insights Principales
+
+El 80% de las ventas se concentra en Bogota, Medellin y cali, siendo Bogota la que mas vende con 6797.25$ correspondiente a ~36.86%   
+
+Nuestros 3 productos mas vendidos son pulsera NFC, Pack 3 pulseras, brazalete Premium las cuales corresponden al 77.93% de las ventas, donde las pulseras NFC plus son el producto mas vendido con un 31,12% del total de las ventas
+
+El dia de la semana que mas se vende es el lunes con un promedio de ventas de diarias de 55$
+
+El ingreso promedio mensual es de 1540$ y el promedio de venta diario es 34.21$
+
+El 70.79% de las transacciones son tienen como origen instagram,TikTok y facebook, siendo instagrma el que mas clientes atrae con un 33% de las transacciones 
+
+Se identifca que los ingresos del segundo semestre son signifcativamente 55% mas bajos que en el primer semestre por lo cual se recomienda una campaña publicitaria enfocada en el segundo semestre del año para aumentar ventas 
+
 ## 🚀 Cómo Usar
 
 ### 1. Generar datos
@@ -59,19 +73,6 @@ Se crea la base de datos en postgresql incluyendo las llaves primarias y foranea
 ### 4. Abrir dashboard
 Abre `nfc_dashboard.pbix` en Power BI
 
-
-
-## 📈 Insights Principales
-
-El 80% de las ventas se concentra en Bogota, Medellin y cali, siendo Bogota la que mas vende con 6797.25$ correspondiente al 36.86%
-
-Nuestros 3 productos mas vendidos son pulsera NFC, Pack 3 pulseras, brazalete Premium las cuales corresponden al 77.93% de las ventas, donde las pulseras NFC plus son el producto mas vendido con un 31,12% del total de las ventas
-
-El dia de la semana que mas se vende es el lunes con un promedio de ventas de diarias de 55$
-
-el ingreso promedio mensual es de 1540$ y el promedio de venta diario es 34.21$
-
-El 70.79% de las transacciones son tienen como origen instagram,TikTok y facebook, siendo instagrma el que mas clientes atrae con un 33% de las transacciones 
 
 ## 👨‍💻 Autor
 

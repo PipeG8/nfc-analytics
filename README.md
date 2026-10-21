@@ -26,6 +26,9 @@ Análisis completo de un negocio de accesorios NFC usando Python, SQL y Power BI
 - **Productos:** 5 tipos de accesorios NFC
 - **Canales:** Instagram, TikTok, Facebook, etc.
 - **Ciudades:** Principales ciudades de Colombia
+<p align="center">
+  <img src="https://github.com/PipeG8/nfc-analytics/blob/main/imagenes%20y%20videos/nfc_analytics2.gif" alt="visulización y Despliegue del dashboard" width="400px">
+</p>
 
 ### Estadísticas Generales
 

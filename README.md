@@ -40,24 +40,23 @@ Análisis completo de un negocio de accesorios NFC usando Python, SQL y Power BI
 
 ## 📈 Insights Principales
 
-El 80% de las ventas se concentra en Bogota, Medellin y cali, siendo Bogota la que mas vende con 6797.25$ correspondiente a ~36.86%   
+EEl 80% de las ventas se concentra en Bogotá, Medellín y Cali, siendo Bogotá la que más vende con $6,797.25, lo que corresponde al ~36.86%.
 
-Nuestros 3 productos mas vendidos son pulsera NFC, Pack 3 pulseras, brazalete Premium las cuales corresponden al 77.93% de las ventas, donde las pulseras NFC plus son el producto mas vendido con un 31,12% del total de las ventas
+Nuestros 3 productos más vendidos son la pulsera NFC, el Pack 3 pulseras y el brazalete Premium, los cuales corresponden al 77.93% de las ventas. Las pulseras NFC Plus son el producto más vendido con un 31.12% del total de las ventas.
 
-El 70.79% de las transacciones son tienen como origen instagram,TikTok y facebook, siendo instagrma el que mas clientes atrae con un 33% de las transacciones 
+El 70.79% de las transacciones tienen como origen Instagram, TikTok y Facebook, siendo Instagram la red que más clientes atrae con un 33% de las transacciones.
 
-EL producto mas vendido es la pulsera NFC plus, la cual se vende principalmente a traves de instagram con un 34.54% de las transacciones para este producto. Esto nos permite evaluar que una campaña pulicitaria o descuentos en instagram puede traer un aumento en nuestras ventas.
+El producto más vendido es la pulsera NFC Plus, la cual se vende principalmente a través de Instagram con un 34.54% de las transacciones para este producto. Esto nos permite evaluar que una campaña publicitaria o de descuentos en Instagram puede generar un aumento en nuestras ventas.
 
-Se evidencia que hay una disminución de las ventas de la empresa en un 24.95% entre el año 2023 y 2024 lo cual se da por la disminución transacciónes(14.50% menos) y un ticket promedio 12.20% mas bajo como se muestra en la siguiente tabla, el aumento de ventas y valor de ticket promedio permitira mejorar nuestro crecimiento. Se deberia revisar que productos cayeron y evaluar una campaña para recuperarlos
+Se evidencia una disminución en las ventas de la empresa del 24.95% entre los años 2023 y 2024, lo cual se debe a una reducción en las transacciones (14.50% menos) y a un ticket promedio 12.20% más bajo, como se muestra en la siguiente tabla. El aumento de las ventas y del valor del ticket promedio permitirá mejorar nuestro crecimiento. Se debería revisar qué productos cayeron y evaluar una campaña para recuperarlos.
 
 <p align="center">
   <img src="https://github.com/PipeG8/nfc-analytics/blob/main/imagenes%20y%20videos/comparativo_crecimiento_h1.png" alt="visulización y Despliegue del dashboard" width="400px">
 </p>
 
-El ingreso promedio mensual es de 1540$ y el promedio de venta diario es 34.21$
+El ingreso promedio mensual es de $1,540 y el promedio de venta diario es de $34.21.
 
-El martes es el día con mayor venta diaria promedio (~43$), seguido del lunes (~38$). Los más bajos son jueves y domingo (~30$). Hay 265 días sin ninguna venta en el período, así que el principal reto es la frecuencia: solo 4 de cada 7 días hay al menos una venta. Una campaña enfocada en jueves y domingo, o en activar ventas en los días vacíos, tiene más potencial que reforzar los días fuertes.
-
+El martes es el día con mayor venta diaria promedio (~$43), seguido del lunes (~$38). Los valores más bajos se registran los jueves y domingos (~$30). Hay 265 días sin ninguna venta en el período, por lo que el principal reto es la frecuencia: solo 4 de cada 7 días se registra al menos una venta. Una campaña enfocada en jueves y domingo, o en activar ventas en los días vacíos, tiene más potencial que reforzar los días fuertes.
 
 ## 🚀 Cómo Usar
 

@@ -11,6 +11,7 @@ Análisis completo de un negocio de accesorios NFC usando Python, SQL y Power BI
 - **Análisis exploratorio:** Pandas + visualizaciones
 - **Queries SQL:** Análisis profundo con SQL
 - **Dashboard:** Power BI con insights interactivos
+- **Cloude:** Uso de cloude para la revisión, diseño del proyecto y guia del proyecto 
 
 ## 🔧 Tecnologías
 
@@ -18,6 +19,7 @@ Análisis completo de un negocio de accesorios NFC usando Python, SQL y Power BI
 - **SQL** (postgresql)
 - **Power BI**
 - **Git + GitHub**
+- **Cloude**
 
 ## 📊 Dataset
 
@@ -52,9 +54,9 @@ Se evidencia que hay una disminución de las ventas de la empresa en un 24.95% e
   <img src="https://github.com/PipeG8/nfc-analytics/blob/main/imagenes%20y%20videos/comparativo_crecimiento_h1.png" alt="visulización y Despliegue del dashboard" width="400px">
 </p>
 
-El dia de la semana que mas se vende es el martes y sabado con un promedio de ventas de diarias de ~74$ y los más bajos son el miercoles y jueves con ~61$. lo cual afecta nuestras ventas promedio mensuales, para esto se puede hacer descuentos o campañas enfocados en esos 2 dias de la semana 
-
 El ingreso promedio mensual es de 1540$ y el promedio de venta diario es 34.21$
+
+El martes es el día con mayor venta diaria promedio (~43$), seguido del lunes (~38$). Los más bajos son jueves y domingo (~30$). Hay 265 días sin ninguna venta en el período, así que el principal reto es la frecuencia: solo 4 de cada 7 días hay al menos una venta. Una campaña enfocada en jueves y domingo, o en activar ventas en los días vacíos, tiene más potencial que reforzar los días fuertes.
 
 
 ## 🚀 Cómo Usar
@@ -83,7 +85,7 @@ Se crea la base de datos en postgresql incluyendo las llaves primarias y foranea
 Esquema base de datos 
 
 <p align="center">
-  <img src="https://github.com/PipeG8/nfc-analytics/blob/main/imagenes%20y%20videos/comparativo_crecimiento_h1.png" alt="visulización y Despliegue del dashboard" width="400px">
+  <img src="https://github.com/PipeG8/nfc-analytics/blob/main/imagenes%20y%20videos/esquema_bd_sql.png" alt="visualización del esquema de  la base de datos en sql" width="400px">
 </p>
 
 

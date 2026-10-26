@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Análisis completo de un negocio de accesorios NFC usando Python, SQL y Power BI.
+Análisis completo de un negocio de accesorios NFC usando Python, SQL y Power BI. Donde el objetivo de este proyecto es responder cual es el desempeño actual de la empresa y que acciones se pueden tomar para mejorar basados en ese desempeño
 **Datos sintéticos generados para propósitos de portafolio.**
 
 ## 📋 Contenido del Proyecto

@@ -2,7 +2,7 @@
 
 ## Description
 
-End-to-end data analysis of an NFC accessory business built using Python, SQL, and Power BI.
+A comprehensive analysis of an NFC accessories business using Python, SQL, and Power BI. The objective of this project is to determine the company's current performance and identify actions that can be taken to improve it based on those findings.
 **Synthetic data generated for portfolio purposes.**
 
 ## 📋 Project Structure

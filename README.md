@@ -42,6 +42,10 @@ El 80% de las ventas se concentra en Bogota, Medellin y cali, siendo Bogota la q
 
 Nuestros 3 productos mas vendidos son pulsera NFC, Pack 3 pulseras, brazalete Premium las cuales corresponden al 77.93% de las ventas, donde las pulseras NFC plus son el producto mas vendido con un 31,12% del total de las ventas
 
+El 70.79% de las transacciones son tienen como origen instagram,TikTok y facebook, siendo instagrma el que mas clientes atrae con un 33% de las transacciones 
+
+EL producto mas vendido es la pulsera NFC plus, la cual se vende principalmente a traves de instagram con un 34.54% de las transacciones para este producto. Esto nos permite evaluar que una campaña pulicitaria o descuentos en instagram puede traer un aumento en nuestras ventas.
+
 Se evidencia que hay una disminución de las ventas de la empresa en un 24.95% entre el año 2023 y 2024 lo cual se da por la disminución transacciónes(14.50% menos) y un ticket promedio 12.20% mas bajo como se muestra en la siguiente tabla, el aumento de ventas y valor de ticket promedio permitira mejorar nuestro crecimiento. Se deberia revisar que productos cayeron y evaluar una campaña para recuperarlos
 
 <p align="center">
@@ -51,8 +55,6 @@ Se evidencia que hay una disminución de las ventas de la empresa en un 24.95% e
 El dia de la semana que mas se vende es el martes y sabado con un promedio de ventas de diarias de ~74$ y los más bajos son el miercoles y jueves con ~61$. lo cual afecta nuestras ventas promedio mensuales, para esto se puede hacer descuentos o campañas enfocados en esos 2 dias de la semana 
 
 El ingreso promedio mensual es de 1540$ y el promedio de venta diario es 34.21$
-
-El 70.79% de las transacciones son tienen como origen instagram,TikTok y facebook, siendo instagrma el que mas clientes atrae con un 33% de las transacciones 
 
 
 ## 🚀 Cómo Usar
@@ -77,6 +79,13 @@ Se crea la base de datos en postgresql incluyendo las llaves primarias y foranea
 -revision_tamaño_tablas.sql
 -cambiar_nombre_columna.sql
 -crear_tabla_calendario.sql
+
+Esquema base de datos 
+
+<p align="center">
+  <img src="https://github.com/PipeG8/nfc-analytics/blob/main/imagenes%20y%20videos/comparativo_crecimiento_h1.png" alt="visulización y Despliegue del dashboard" width="400px">
+</p>
+
 
 ### 4. Abrir dashboard
 Abre `nfc_dashboard.pbix` en Power BI

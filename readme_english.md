@@ -30,7 +30,7 @@ End-to-end data analysis of an NFC accessory business built using Python, SQL, a
 - **Locations:** Major cities in Colombia
 
 <p align="center">
-  <img src="https://github.com/PipeG8/nfc-analytics/blob/main/imagenes%20y%20videos/nfc_analytics2.gif" alt="Dashboard Visualization and Deployment" width="400px">
+  <img src="https://github.com/PipeG8/nfc-analytics/blob/main/imagenes%20y%20videos/nfc-analytics3.gif" alt="Dashboard Visualization and Deployment" width="400px">
 </p>
 
 ### Key Statistics
@@ -73,10 +73,19 @@ This step handles data cleaning, standardization, and initial statistical analys
 ### 3. Database Setup (SQL)
 Set up the PostgreSQL relational database, including Primary and Foreign Keys, relational constraints, and a dedicated Calendar dimension table.
 
-SQL scripts available in the repository:
-- `revision_tamaño_tablas.sql`
-- `cambiar_nombre_columna.sql`
-- `crear_tabla_calendario.sql`
+- sales_analysis.sql (analisis_ventas.sql)
+- rename_column.sql (cambiar_nombre_columna.sql)
+- average_ticket_comparison_h1_vs_h2.sql (comparativo_ticket_promedio_h1vsh2.sql)
+- create_calendar_dimension.sql (crear_dim_calendario.sql)
+- average_sales_by_city.sql (promedio_venta_ciudad.sql)
+- check_table_sizes.sql (revision_tamaño_tablas.sql)
+- check_foreign_keys.sql (revisión_de_llaves_foraneas.sql)
+- total_sales_amount_by_product.sql (total_monto_venta_producto.sql)
+- monthly_pct_growth.sql (creciemiento_pct_mensual.sql)
+- period_to_period_growth.sql (creciemiento_entre_periodos.sql)
+- average_monthly_growth.sql (creciemiento_mensual_avg.sql)
+- total_growth_and_compound_growth_pct.sql (crecimiento_total_y_crecimiento_compuesto_pct.sql)
+- yoy_average_sales_growth_2023_vs_2024.sql (crecimiento_venta_prom_yoy_2023vs2024.sql)
 
 **Database Schema:**
 
